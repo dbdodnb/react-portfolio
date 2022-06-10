@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.b9fa75fd.css",
+    "main.js": "/react-portfolio/static/js/main.763e0467.js",
+    "static/js/787.1ed0c42c.chunk.js": "/react-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/about.jpg": "/react-portfolio/static/media/about.2e249d44e2755b031834.jpg",
+    "static/media/saferoom.jpg": "/react-portfolio/static/media/saferoom.8d26ccc5ef8884807d85.jpg",
+    "static/media/intuitive.svg": "/react-portfolio/static/media/intuitive.84c8c2e17965bca9ee0b.svg",
+    "static/media/instagram.svg": "/react-portfolio/static/media/instagram.3bb1597bdcaea180220c.svg",
+    "static/media/sass.svg": "/react-portfolio/static/media/sass.a81b76ecd244791a60c8.svg",
+    "static/media/react.svg": "/react-portfolio/static/media/react.d5823f4bf87b05f355c9.svg",
+    "static/media/html.svg": "/react-portfolio/static/media/html.39415ad347f87ed9d196.svg",
+    "static/media/fast.svg": "/react-portfolio/static/media/fast.53d23c2b3a858fa96dcb.svg",
+    "static/media/adaptive.svg": "/react-portfolio/static/media/adaptive.def27f4aa1771ffff338.svg",
+    "static/media/github.svg": "/react-portfolio/static/media/github.26edbdc92ba144890838.svg",
+    "static/media/dynamic.svg": "/react-portfolio/static/media/dynamic.df1291387ef4042ce13f.svg",
+    "static/media/js.svg": "/react-portfolio/static/media/js.ecf5e73acf5a0fe8bd88.svg",
+    "static/media/figma.svg": "/react-portfolio/static/media/figma.a08479aaa736df9c204e.svg",
+    "index.html": "/react-portfolio/index.html",
+    "static/media/linkedin.svg": "/react-portfolio/static/media/linkedin.c7f3555ae32ea4ea116d.svg",
+    "static/media/facebook.svg": "/react-portfolio/static/media/facebook.a55bf2bd0f84dfa98dfb.svg",
+    "main.b9fa75fd.css.map": "/react-portfolio/static/css/main.b9fa75fd.css.map",
+    "main.763e0467.js.map": "/react-portfolio/static/js/main.763e0467.js.map",
+    "787.1ed0c42c.chunk.js.map": "/react-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9fa75fd.css",
+    "static/js/main.763e0467.js"
+  ]
+}
